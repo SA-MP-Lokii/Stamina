@@ -1,0 +1,2 @@
+# Stamina
+Control Players Stamina
